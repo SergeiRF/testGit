@@ -8,4 +8,8 @@ public class Cat {
 		this.name = name;
 	}
 	
+	public void doSound() {
+		System.out.println("maiyau");
+	}
+	
 }
