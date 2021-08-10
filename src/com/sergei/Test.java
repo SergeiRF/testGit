@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("Hello");
 		System.out.println("world");
 		
-		System.out.println(" add another 2");
+		System.out.println(" add another 4");
 	}
 
 }
