@@ -13,6 +13,7 @@ public class Test {
 		System.out.println(" rebase add line 6");
 		
 		// coment
+		System.out.println("temp change");
 	}
 
 }
